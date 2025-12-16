@@ -5,6 +5,22 @@ Comic Run is a fast-paced endless runner game for PC, developed in Unity 3D duri
 The player takes on the role of a character spreading a “comic” gas that makes civilians laugh.  
 The goal is to score as many points as possible while managing limited resources and avoiding constant police pursuit.
 
+
+
+## 🎮 Gameplay Preview
+<sub>
+⚠️ Video contains cuts and sped-up segments for presentation purposes.
+</sub>
+<div align="center">
+  <video src="https://github.com/user-attachments/assets/f00cccaf-e0ae-4d6d-b2b4-7e58b9726593"
+         width="800"
+         controls
+         autoplay
+         loop
+         muted>
+  </video>
+</div>
+
 ## 🔍 Project Overview
 - **Platform:** PC
 - **Engine:** Unity (2021.3.30f1)
